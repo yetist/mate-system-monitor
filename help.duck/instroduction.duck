@@ -1,0 +1,56 @@
+@ducktype/1.0
+@namespace if http://projectmallard.org/if/1.0/
+@define appname $app(MyApp)
+@define version 2.3
+@define appvers $appname; $version;
+
+= Introduction
+  [guide]
+  @link[guide >index]
+
+This page describes $appvers;.
+
+The System Monitor application enables you to display basic system information and monitor system processes, usage of system resources, and file systems. You can also use System Monitor to modify the behavior of your system.
+
+The System Monitor window contains four tabbed sections:
+
+[terms]
+- System
+
+  Displays various basic information about the computer's hardware and software.
+
+  * Distribution
+
+    * Distribution version
+
+    * Linux Kernel version
+
+    * MATE version
+
+  * Hardware
+
+    * Installed memory
+
+    * Processors and speeds
+
+  * System Status
+
+    * Currently available disk space
+
+- Processes
+
+  Shows active processes, and how processes are related to each other. Provides detailed information about individual processes, and enables you to control active processes.
+
+- Resources
+
+  Displays the current usage of the following system resources:
+
+    * CPU (central processing unit) time
+
+    * Memory and swap space
+
+    * Network usage
+
+- File Systems
+
+  Lists all mounted file systems along with basic information about each.

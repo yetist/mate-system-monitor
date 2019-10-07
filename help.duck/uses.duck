@@ -1,0 +1,33 @@
+= Bean Uses
+  [guide]
+  @link[guide >index]
+  @link[topic >planting]
+
+  By the end of this page, you will be able to plant your magic
+  beans and nurture them into a bean sprout.
+
+  [steps]
+  * Dig a hole 5cm deep.
+  * Place your magic beans in the hole.
+  * Fill the hole with clean dirt and pat it level.
+  * Water daily.
+
+[note]
+This is a simple note with a single line of content.
+
+
+[note]
+  This is a simple note and this is the first paragraph.
+
+  This is another paragraph in that note.
+
+
+  [note]
+    Remember the three virtues of a programmer:
+
+    * Laziness
+    * Impatience
+    * Hubris
+
+  [note .tip]
+    This is a tip. It will probably be styled differently.
