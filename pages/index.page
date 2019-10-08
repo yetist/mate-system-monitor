@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide"
+      id="index">
+  <info>
+    <credit type="copyright">
+      <name>MATE Documentation Project</name>
+      <years>2019</years>
+    </credit>
+    <credit type="copyright">
+      <name>Paul Cutler</name>
+      <years>2009</years>
+    </credit>
+    <credit type="copyright">
+      <name>Sun Microsystems</name>
+      <years>2004</years>
+    </credit>
+    <credit type="copyright">
+      <name>Bill Day</name>
+      <years>2001 2002 2004</years>
+    </credit>
+    <credit type="publisher">
+      <name> MATE Documentation Project </name>
+    </credit>
+    <credit type="publisher">
+      <name> GNOME Documentation Project </name>
+    </credit>
+    <credit type="author">
+      <name>MATE Documentation Project </name>
+    </credit>
+    <credit type="author">
+      <name>Sun GNOME Documentation Team</name>
+    </credit>
+    <credit type="author">
+      <name>Bill Day</name>
+      <email its:translate="no">billday@bellatlantic.net</email>
+    </credit>
+    <credit type="author">
+      <name>Paul Cutler</name>
+      <email its:translate="no">pcutler@foresightlinux.org</email>
+    </credit>
+    <releaseinfo xmlns="" revision="1.10" role="review"> </releaseinfo>
+    <releaseinfo xmlns=""> This manual describes version 1.10.0 of System Monitor.  </releaseinfo>
+   <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" /> 
+  </info>
+  <p>
+            System Monitor 
+        </p>
+  <p>
+            mate-system-monitor 
+        </p>
+  <p> 
+            procman
+</p>
+  <links type="topic" groups="intro getting-started usage prefs"/>
+</page>

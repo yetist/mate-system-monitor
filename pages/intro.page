@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="intro" type="topic">
+  <info>
+    <link type="guide" group="intro" xref="index"/>
+  </info>
+  <title>Introduction</title>
+  <p>
+      The <app>System Monitor</app> application enables you to display basic system information and monitor system processes, usage of system resources, and file systems. You can also use <app>System Monitor</app> to modify the behavior of your system.
+    </p>
+  <p>
+      The <app>System Monitor</app> window contains four tabbed sections:
+    </p>
+  <terms style="variablelist">
+    <item>
+      <title>
+        <gui style="guilabel">System</gui>
+      </title>
+      <p>Displays various basic information about the computer's hardware and software.</p>
+      <terms style="variablelist">
+        <item>
+          <title>
+                Distribution
+              </title>
+          <list style="itemizedlist">
+            <item>
+              <p>Distribution version</p>
+            </item>
+            <item>
+              <p>Linux Kernel version</p>
+            </item>
+            <item>
+              <p>MATE version</p>
+            </item>
+          </list>
+        </item>
+        <item>
+          <title>
+                Hardware
+              </title>
+          <list style="itemizedlist">
+            <item>
+              <p>Installed memory</p>
+            </item>
+            <item>
+              <p>Processors and speeds</p>
+            </item>
+          </list>
+        </item>
+        <item>
+          <title>
+                System Status
+              </title>
+          <list style="itemizedlist">
+            <item>
+              <p>Currently available disk space</p>
+            </item>
+          </list>
+        </item>
+      </terms>
+    </item>
+    <item>
+      <title>
+        <gui style="guilabel">Processes</gui>
+      </title>
+      <p>
+            Shows active processes, and how processes are related to each other. Provides detailed information about individual processes, and enables you to control active processes.  
+          </p>
+    </item>
+    <item>
+      <title>
+        <gui style="guilabel">Resources</gui>
+      </title>
+      <p>
+            Displays the current usage of the following system resources:
+          </p>
+      <list style="itemizedlist">
+        <item>
+          <p>
+                CPU (central processing unit) time
+              </p>
+        </item>
+        <item>
+          <p>
+                Memory and swap space 
+              </p>
+        </item>
+        <item>
+          <p>
+                Network usage
+              </p>
+        </item>
+      </list>
+    </item>
+    <item>
+      <title>
+        <gui style="guilabel">File Systems</gui>
+      </title>
+      <p>
+            Lists all mounted file systems along with basic information about each.
+          </p>
+    </item>
+  </terms>
+  <links type="topic" groups=""/>
+</page>

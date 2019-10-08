@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="prefs" type="topic">
+  <info>
+    <link type="guide" group="prefs" xref="index"/>
+  </info>
+  <title>File Systems</title>
+  <terms style="variablelist">
+    <item>
+      <title>
+        <gui style="guilabel">File Systems</gui>
+      </title>
+      <list style="itemizedlist">
+        <item>
+          <p>
+            <gui style="guilabel">Update interval in seconds</gui>
+          </p>
+          <p>
+                    Use this spin box to specify how often you want to update the <gui style="guilabel">File Systems</gui> table.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Show all file systems</gui>
+          </p>
+          <p>
+                    Select this option to show all file systems, including temporary and system ones.
+                  </p>
+        </item>
+      </list>
+    </item>
+    <item>
+      <title>
+        <gui style="guilabel">Information Fields</gui>
+      </title>
+      <p>
+                Use the following options to select which fields are displayed in the file system list:
+              </p>
+      <list style="itemizedlist">
+        <item>
+          <p>
+            <gui style="guilabel">Device</gui>
+          </p>
+          <p>
+                    Select this option to display the location of the block file for the device.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Directory</gui>
+          </p>
+          <p>
+                    Select this option to display the mount point (directory to access) of a device.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Type</gui>
+          </p>
+          <p>
+                    Select this option to display the file system type. In most distributions of GNU/Linux and other Unix-like operating systems, there are numerous file system types which are supported by the kernel, like NTFS, FAT32, ext4, ext3 ext2 etc. The file system type will be shown if this option is selected in case it's a supported type.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Total</gui>
+          </p>
+          <p>
+                    Select this option to display the total capacity of a file system.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Free</gui>
+          </p>
+          <p>
+                    Select this option to display the amount of space not used by the file system.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Available</gui>
+          </p>
+          <p>
+                    Select this option to display the amount of space left for use.
+                  </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Used</gui>
+          </p>
+          <p>
+                    Select this option to display the amount of used space.
+                  </p>
+        </item>
+      </list>
+    </item>
+  </terms>
+  <links type="topic" groups=""/>
+</page>

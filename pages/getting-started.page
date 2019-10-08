@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="getting-started" type="topic">
+  <info>
+    <link type="guide" group="getting-started" xref="index"/>
+  </info>
+  <title>When You Start System Monitor</title>
+  <p>
+    When you start <app>System Monitor</app>, the following window is displayed:
+    </p>
+  <figure style="figure">
+    <title>System Monitor Window</title>
+    <figure style="screenshot">
+      <media type="image" src="figures/mate-system-monitor_window.png"/>
+    </figure>
+  </figure>
+  <p>
+        The <app>System Monitor</app> window contains the following elements: 
+                </p>
+  <terms style="variablelist">
+    <item>
+      <title>Menubar</title>
+      <p>
+                    The menus on the menubar contain all the commands that you need to work with <app>System Monitor</app>.
+                    </p>
+    </item>
+    <item>
+      <title>Display area</title>
+      <p>
+                        The display area contains the system monitor information. The display area contains the following tabbed sections:
+                        </p>
+      <list style="itemizedlist">
+        <item>
+          <p>
+            <gui style="guilabel">System</gui>
+          </p>
+          <p>
+                            Contains a list of basic system properties, such as system software versions and hardware specifications and status.
+                        </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Processes</gui>
+          </p>
+          <p>
+                            Contains a list of processes organized as a table, a list of load averages over the past few minutes, and an <gui style="guibutton">End Process</gui> button.
+                        </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">Resources</gui>
+          </p>
+          <p>
+                            Contains a <gui style="guilabel">CPU History</gui> graph, a <gui style="guilabel">Memory and Swap History</gui> graph, and a <gui style="guilabel">Network History</gui> graph.
+                        </p>
+        </item>
+        <item>
+          <p>
+            <gui style="guilabel">File Systems</gui>
+          </p>
+          <p>
+                            Contains a table of currently mounted file systems.
+                        </p>
+        </item>
+      </list>
+    </item>
+    <item>
+      <title>Statusbar</title>
+      <p>
+                        The statusbar displays information about current <app>System Monitor</app> activity and contextual information about the menu items. 
+            </p>
+    </item>
+  </terms>
+  <links type="topic" groups=""/>
+</page>

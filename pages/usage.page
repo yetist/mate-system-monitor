@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<page xmlns="http://projectmallard.org/1.0/" id="usage" type="topic">
+  <info>
+    <link type="guide" group="usage" xref="index"/>
+  </info>
+  <title>To Change the Line Colors of the Network Graph</title>
+  <p>
+          To change the color of the lines that represent network usage in the <gui style="guilabel">Network History</gui> graph, perform the following steps:
+        </p>
+  <p>
+          
+            
+              Select the <gui style="guilabel">Resources</gui> tab in the <gui style="guilabel">System Monitor</gui> window, to display the graphs and table that provide information about the usage of system resources. 
+            
+          
+          
+            
+              Click on the <gui style="guilabel">Receiving</gui> or <gui style="guilabel">Sending</gui> button. The <gui style="guilabel">Pick a color</gui> dialog is displayed. 
+            
+          
+          
+            
+              Choose a color from the <gui style="guilabel">Palette</gui>, or use the color wheel or the spin boxes to customize the color. 
+            
+          
+          
+
+              Click <gui style="guibutton">OK</gui> to close the <gui style="guilabel">Pick a color</gui> dialog.
+
+
+        </p>
+  <links type="topic" groups=""/>
+</page>
