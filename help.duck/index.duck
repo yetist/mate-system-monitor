@@ -41,5 +41,10 @@
   @name Paul Cutler
   @email pcutler@foresightlinux.org
 
+@revision[pkgversion="3.8" date="2013-02-24" status="review"]
+
+@include[href=legal.xml xmlns=http://www.w3.org/2001/XInclude]
+
 This page describes $appname; $version;
+
 This page describes $app; $version; $date;
