@@ -1,6 +1,45 @@
-= System Monitor Manual V2.3
+@ducktype/1.0
+@include version.inc
+
+= $app; Manual $manrevision;
   [guide]
 
-@credit[author]
-  @name Rupert Monkey
+@credit[copyright]
+  @name MATE Documentation Project
   @email rupert@example.com
+  @years 2019
+
+@credit[copyright]
+  @name Paul Cutler
+  @years 2009
+
+@credit[copyright]
+  @name Sun Microsystems
+  @years 2004
+
+@credit[copyright]
+  @years 2001 2002 2004
+  @name Bill Day
+
+@credit[publisher]
+  @name MATE Documentation Project
+
+@credit[publisher]
+  @name GNOME Documentation Project
+
+@credit[author]
+  @name MATE Documentation Project
+
+@credit[author]
+  @name GNOME Documentation Team
+
+@credit[author]
+  @name Bill Day
+  @email billday@bellatlantic.net
+
+@credit[author]
+  @name Paul Cutler
+  @email pcutler@foresightlinux.org
+
+This page describes $appname; $version;
+This page describes $app; $version; $date;
